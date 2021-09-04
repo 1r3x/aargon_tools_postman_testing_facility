@@ -35,6 +35,46 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/AccountInformation/GetSIF/4810-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMWE2OGU5Ni04YzRjLTQ4YjItYjAwMC02MWY3NGVlNTA4YTEiLCJuYmYiOjE2MzA3MjM5NjYsImV4cCI6MTYzMDcyNjk2NiwiaWF0IjoxNjMwNzIzOTY2fQ.xp0lq-ObavARugRYFJE0tXtm_Vb3tnJ72n73muTUJIo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/AccountInformation/GetSIF/4810-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"AccountInformation",
+						"GetSIF",
+						"4810-000001"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
