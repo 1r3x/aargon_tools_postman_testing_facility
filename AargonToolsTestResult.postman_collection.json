@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "6c3097ec-c710-40ba-b6db-ab45e34ed799",
+		"name": "AargonToolsTestResult",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://g14.aargontools.com/api/AuthManagement/Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"akib@example.com\",\r\n    \"password\": \"AargonTools123!@#\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://g14.aargontools.com/api/AuthManagement/Login",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"AuthManagement",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
