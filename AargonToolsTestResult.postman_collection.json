@@ -75,7 +75,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJmYjk2MzgzNC1kNzk3LTQ3NTgtODMyYS00MzIxYmU0ZDU3MzgiLCJuYmYiOjE2MzA5NTU5ODEsImV4cCI6MTYzMDk1ODk4MSwiaWF0IjoxNjMwOTU1OTgxfQ.RhWZnVwZqmI2TaF0wkY1xVNcW0wQBAzYB8kalkc9DoA",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -108,7 +108,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiIwOTA4Y2Q2OS03OWZhLTQ4OGUtOGFlMi1mYzhlMTg1NWFlMmIiLCJuYmYiOjE2MzA5NTkyMzcsImV4cCI6MTYzMDk2MjIzNywiaWF0IjoxNjMwOTU5MjM3fQ.jX6i1KJlMh8FIU2vFF7U4k98C-b3pCcZ-sRGeuXFUx8",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -141,7 +141,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiIwOTA4Y2Q2OS03OWZhLTQ4OGUtOGFlMi1mYzhlMTg1NWFlMmIiLCJuYmYiOjE2MzA5NTkyMzcsImV4cCI6MTYzMDk2MjIzNywiaWF0IjoxNjMwOTU5MjM3fQ.jX6i1KJlMh8FIU2vFF7U4k98C-b3pCcZ-sRGeuXFUx8",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -174,7 +174,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJiZWIyYzBkZC1hMDY0LTQzOWQtOTUwNC0xZmQxZTI3ZGFhMTAiLCJuYmYiOjE2MzA5Njk1NDYsImV4cCI6MTYzMDk3MjU0NiwiaWF0IjoxNjMwOTY5NTQ2fQ.4fcBNdSgYjjJkqrv7aNxuAg3ioqV_mkNgiYhAWl9QsY",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -207,7 +207,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJiZWIyYzBkZC1hMDY0LTQzOWQtOTUwNC0xZmQxZTI3ZGFhMTAiLCJuYmYiOjE2MzA5Njk1NDYsImV4cCI6MTYzMDk3MjU0NiwiaWF0IjoxNjMwOTY5NTQ2fQ.4fcBNdSgYjjJkqrv7aNxuAg3ioqV_mkNgiYhAWl9QsY",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -240,7 +240,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJiZWIyYzBkZC1hMDY0LTQzOWQtOTUwNC0xZmQxZTI3ZGFhMTAiLCJuYmYiOjE2MzA5Njk1NDYsImV4cCI6MTYzMDk3MjU0NiwiaWF0IjoxNjMwOTY5NTQ2fQ.4fcBNdSgYjjJkqrv7aNxuAg3ioqV_mkNgiYhAWl9QsY",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -280,7 +280,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJiZWIyYzBkZC1hMDY0LTQzOWQtOTUwNC0xZmQxZTI3ZGFhMTAiLCJuYmYiOjE2MzA5Njk1NDYsImV4cCI6MTYzMDk3MjU0NiwiaWF0IjoxNjMwOTY5NTQ2fQ.4fcBNdSgYjjJkqrv7aNxuAg3ioqV_mkNgiYhAWl9QsY",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI1MzIzNzJlNi0wMzcyLTQwYjEtYjc4NS00MTgwY2U2ZTZiNTMiLCJuYmYiOjE2MzA5NzA3OTEsImV4cCI6MTYzMDk3Mzc5MSwiaWF0IjoxNjMwOTcwNzkxfQ.EODEF2Ef2Nv6MNCO84eSBr8OVg_EJte7if_CBVUmnu4",
 							"type": "string"
 						}
 					]
@@ -288,7 +288,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://g14.aargontools.com/api/AccountInformation/GetMultiples/0001-000001",
+					"raw": "https://g14.aargontools.com/api/AccountInformation/GetMultiples/1850-190058",
 					"protocol": "https",
 					"host": [
 						"g14",
@@ -299,7 +299,211 @@
 						"api",
 						"AccountInformation",
 						"GetMultiples",
+						"1850-190058"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountBalance/0001-000001 ",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMmFkNzFlMi01MzUwLTRhOWUtYmNiYy0xZWI2NjgyOGIwMTUiLCJuYmYiOjE2MzEwNDM5MDIsImV4cCI6MTYzMTA0NjkwMiwiaWF0IjoxNjMxMDQzOTAyfQ.RGn-Dk39ITpDnVEv0gm1-HkTDo40QxxbwHkjdUeyeLY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountBalance/0001-000001 ",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"AccountInformation",
+						"GetAccountBalance",
+						"0001-000001 "
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountValidity/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMmFkNzFlMi01MzUwLTRhOWUtYmNiYy0xZWI2NjgyOGIwMTUiLCJuYmYiOjE2MzEwNDM5MDIsImV4cCI6MTYzMTA0NjkwMiwiaWF0IjoxNjMxMDQzOTAyfQ.RGn-Dk39ITpDnVEv0gm1-HkTDo40QxxbwHkjdUeyeLY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountValidity/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"AccountInformation",
+						"GetAccountValidity",
 						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountExistences/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMmFkNzFlMi01MzUwLTRhOWUtYmNiYy0xZWI2NjgyOGIwMTUiLCJuYmYiOjE2MzEwNDM5MDIsImV4cCI6MTYzMTA0NjkwMiwiaWF0IjoxNjMxMDQzOTAyfQ.RGn-Dk39ITpDnVEv0gm1-HkTDo40QxxbwHkjdUeyeLY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountExistences/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"AccountInformation",
+						"GetAccountExistences",
+						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/AccountInformation/GetRecentApproval/1850-190058",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMmFkNzFlMi01MzUwLTRhOWUtYmNiYy0xZWI2NjgyOGIwMTUiLCJuYmYiOjE2MzEwNDM5MDIsImV4cCI6MTYzMTA0NjkwMiwiaWF0IjoxNjMxMDQzOTAyfQ.RGn-Dk39ITpDnVEv0gm1-HkTDo40QxxbwHkjdUeyeLY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/AccountInformation/GetRecentApproval/1850-190058",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"AccountInformation",
+						"GetRecentApproval",
+						"1850-190058"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountInfo/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMmFkNzFlMi01MzUwLTRhOWUtYmNiYy0xZWI2NjgyOGIwMTUiLCJuYmYiOjE2MzEwNDM5MDIsImV4cCI6MTYzMTA0NjkwMiwiaWF0IjoxNjMxMDQzOTAyfQ.RGn-Dk39ITpDnVEv0gm1-HkTDo40QxxbwHkjdUeyeLY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/AccountInformation/GetAccountInfo/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"AccountInformation",
+						"GetAccountInfo",
+						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/AccountInformation/GetSIF/4810-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiJjMmFkNzFlMi01MzUwLTRhOWUtYmNiYy0xZWI2NjgyOGIwMTUiLCJuYmYiOjE2MzEwNDM5MDIsImV4cCI6MTYzMTA0NjkwMiwiaWF0IjoxNjMxMDQzOTAyfQ.RGn-Dk39ITpDnVEv0gm1-HkTDo40QxxbwHkjdUeyeLY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/AccountInformation/GetSIF/4810-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"AccountInformation",
+						"GetSIF",
+						"4810-000001"
 					]
 				}
 			},
