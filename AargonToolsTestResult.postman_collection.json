@@ -578,6 +578,16 @@
 		{
 			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetNotes/0001-000001&This is the notes",
 			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
 				"method": "POST",
 				"header": [],
 				"url": {
@@ -626,6 +636,409 @@
 						"SetAccountsDetails",
 						"SetDoNotCall",
 						"0001-000001&7025052773"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetNumber/0001-000001&7025052773",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/SetAccountsDetails/SetNumber/0001-000001&7025052773",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"SetAccountsDetails",
+						"SetNumber",
+						"0001-000001&7025052773"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetMoveToHouse/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/SetAccountsDetails/SetMoveToHouse/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"SetAccountsDetails",
+						"SetMoveToHouse",
+						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetMoveToDispute/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/SetAccountsDetails/SetMoveToDispute/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"SetAccountsDetails",
+						"SetMoveToDispute",
+						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetPostDateChecks/0001-000001&12-20-2021&10&102&9&10&Y",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/SetAccountsDetails/SetPostDateChecks/0001-000001&12-20-2021&10&102&9&10&Y",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"SetAccountsDetails",
+						"SetPostDateChecks",
+						"0001-000001&12-20-2021&10&102&9&10&Y"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetBadNumbers/0001-000001&7025052773",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetBadNumbers/0001-000001&7025052773",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetBadNumbers",
+						"0001-000001&7025052773"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetMoveAccount/0001-000001&70",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetMoveAccount/0001-000001&70",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetMoveAccount",
+						"0001-000001&70"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetNotes/0001-000001&This is the notes",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/SetAccountsDetails/SetNotes/0001-000001&This is the notes",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"SetAccountsDetails",
+						"SetNotes",
+						"0001-000001&This is the notes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetDoNotCall/0001-000001&7025052773",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetDoNotCall/0001-000001&7025052773",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetDoNotCall",
+						"0001-000001&7025052773"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetNumber/0001-000001&7025052773",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetNumber/0001-000001&7025052773",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetNumber",
+						"0001-000001&7025052773"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetMoveToHouse/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetMoveToHouse/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetMoveToHouse",
+						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetMoveToDispute/0001-000001",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetMoveToDispute/0001-000001",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetMoveToDispute",
+						"0001-000001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetPostDateChecks/0001-000001&12-20-2021&10&102&9&10&Y",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/SetAccountsDetails/SetPostDateChecks/0001-000001&12-20-2021&10&102&9&10&Y",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"SetAccountsDetails",
+						"SetPostDateChecks",
+						"0001-000001&12-20-2021&10&102&9&10&Y"
 					]
 				}
 			},
