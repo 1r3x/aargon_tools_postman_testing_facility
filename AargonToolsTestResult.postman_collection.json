@@ -1043,6 +1043,140 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/SetAccountsDetails/SetBadNumbers/0001-000001&4929000000006&1221&124&1&9.99",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/CreditCards/SetProcessCcPayments/0001-000001&4929000000006&1221&124&1&9.99",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"CreditCards",
+						"SetProcessCcPayments",
+						"0001-000001&4929000000006&1221&124&1&9.99"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/CreditCard/SchedulePostData/0001-000001&21-12-2012&10&4929000000006&7&12",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/CreditCard/SchedulePostData/0001-000001&21-12-2012&10&4929000000006&7&12",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"CreditCard",
+						"SchedulePostData",
+						"0001-000001&21-12-2012&10&4929000000006&7&12"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/CreditCard/SchedulePostData/0001-000001&21-12-2012&10&4929000000006&7&12",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/CreditCard/SchedulePostData/0001-000001&21-12-2012&10&4929000000006&7&12",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"CreditCard",
+						"SchedulePostData",
+						"0001-000001&21-12-2012&10&4929000000006&7&12"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://g14.aargontools.com/api/Test/CreditCards/SetProcessCcPayments/0001-000001&4929000000006&1221&124&1&9.99",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjBmNTc1OGVlLWJmMjctNGZiNC1iNDkzLTAxOGQ1YjUxZjliOSIsImVtYWlsIjoiYWtpYkBleGFtcGxlLmNvbSIsInN1YiI6ImFraWJAZXhhbXBsZS5jb20iLCJqdGkiOiI0Mjk0OGVjZS0wNmQ0LTRkYjQtYWY1MC1hYWE1M2UxYjA5NWYiLCJuYmYiOjE2MzExMjQyMTksImV4cCI6MTYzMTEyNzIxOSwiaWF0IjoxNjMxMTI0MjE5fQ.RpmJoRmkRkrW4xoV_mhElUM8m9iYqpDICPsI2FQA-Ac",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://g14.aargontools.com/api/Test/CreditCards/SetProcessCcPayments/0001-000001&4929000000006&1221&124&1&9.99",
+					"protocol": "https",
+					"host": [
+						"g14",
+						"aargontools",
+						"com"
+					],
+					"path": [
+						"api",
+						"Test",
+						"CreditCards",
+						"SetProcessCcPayments",
+						"0001-000001&4929000000006&1221&124&1&9.99"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
